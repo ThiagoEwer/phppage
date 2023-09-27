@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My blog</title>
+        <title>CAFE TÃO</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     
     <body>

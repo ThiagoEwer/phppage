@@ -1,81 +1,80 @@
 <!-- About Me section start -->
 <div class="section">
-    <h1><span>About Me</span></h1>
+    <h1><span>O CAFETÃO</span></h1>
        <p> 
-          Hey! I'm <strong>Thiago</strong>. Coding has changed my world. It's not just about apps. Learning to code gave me <i>problem-solving skills</i> and a way to communicate with others on a technical level. I can also develop websites and use my coding skills to get a better job. And I learned it all at <strong>SoloLearn</strong> where they build your self-esteem and keep you motivated. Join me in this rewarding journey. You'll have fun, get help, and learn along the way!
+       <!-- CONTEUDINHO -->  
        </p>
 </div>
 
 <!-- My Schedule section start -->
 <div class="section">
-    <h1><span>My Coding Schedule</span></h1>
+    <h1><span>CARDÁPIO</span></h1>
     <table>
                 <tr>
-                    <th>Day</th>
-                    <th>Mon</th>
-                    <th>Tue</th>
-                    <th>Wed</th>
-                    <th>Thu</th>
-                    <th>Fri</th>
+                    <th>DIA</th>
+                    <th>SEG</th>
+                    <th>TER</th>
+                    <th>QUA</th>
+                    <th>QUI</th>
+                    <th>SEX</th>
                     
                 </tr>
                 <tr>
-                    <td>8-8:30</td>
-                    <td class="selected">Learn</td>
+                    <td>08-8:30</td>
+                    <td class="selected">Café Tentação</td>
                     <td></td>
                     <td></td>
+                    <td class="selected">Café Tentação</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>09-10</td>
+                    <td></td>
+                    <td class="selected">Delícia do Cafetão</td>
+                    <td></td>
+                    <td></td>
+                    <td class="selected">Delícia do Cafetão</td>
+                </tr>
+                <tr>
+                    <td>13-13:30</td>
+                    <td></td>
+                    <td></td>
+                    <td class="selected">Café Êxtase</td>
                     <td></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td>9-10</td>
+                    <td>15:45-16</td>
                     <td></td>
-                    <td class="selected">Practice</td>
+                    <td class="selected">Café Tentação</td>
                     <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>1-1:30</td>
-                    <td></td>
-                    <td></td>
-                    <td class="selected">Play</td>
-                    <td></td>
+                    <td class="selected">Café Êxtase</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td>3:45-5</td>
+                    <td>16-17:15</td>
+                    <td class="selected">Café Charmoso</td>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td class="selected">Code</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>6-6:15</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td class="selected">Discuss</td>
+                    <td class="selected">Café Charmoso</td>
                 </tr>
             </table>
 </div>
 
-<!-- My Skills section start -->
 <div class="section">
-    <h1><span>My Skills</span></h1>
+    <h1><span>MAIS PEDIDOS</span></h1>
     <ul>
-                <li>HTML <br />
+                <li>Délicia do Cafetão <br />
                     <progress min="0" max="100" value="100"></progress>
                 </li>
-                 <li>CSS <br />
+                 <li>Café Tentação <br />
                     <progress min="0" max="100" value="100"></progress>
                 </li>
-                <li>JavaScript <br />
+                <li>Café Charmoso <br />
                     <progress min="0" max="100" value="80"></progress>
                 </li>
-                <li>PHP <br />
+                <li>Café Êxtase <br />
                     <progress min="0" max="100" value="10"></progress>
                 </li>
             </ul>

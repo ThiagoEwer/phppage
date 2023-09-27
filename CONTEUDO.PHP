@@ -1,12 +1,5 @@
-<!-- About Me section start -->
-<div class="section">
-    <h1><span>O CAFETÃO</span></h1>
-       <p> 
-       <!-- CONTEUDINHO -->  
-       </p>
-</div>
 
-<!-- My Schedule section start -->
+<!-- cardápio com a classe section -->
 <div class="section">
     <h1><span>CARDÁPIO</span></h1>
     <table>

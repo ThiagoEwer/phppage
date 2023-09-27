@@ -2,7 +2,7 @@
     <h1><span>CONTATOS</span></h1>
     <div>
         <a href="https://www.instagram.com/thiago_ewer/" target="_blank">
-            <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
+            <img alt="Instagram" src="https://www.prg.ufpb.br/arquivocentral/contents/icons/glossy-instagram-icon-png.png/@@images/ddbb1582-286c-4470-bec3-7db141c0393c.png" />
         </a>
         <a href="#">
             <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>

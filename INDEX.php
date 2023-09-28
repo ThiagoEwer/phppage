@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>CAFE TÃO</title>
-        <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    
-    <body>
-        <?php include 'TOPO.php'; ?>
-        <?php include 'MENU.php'; ?>
-        <?php include 'CONTEUDO.php'; ?>
-        <?php include 'FALECONOSCO.php'; ?>
-        <?php include 'RODAPE.php'; ?>
-    </body>
-</html>
+<?php
+  include_once("topo.php");
+  include_once("menu.php");
+  include_once("quemsomos.php");
+
+  if (isset($_GET['pg'])) {
+    $pg = $_GET['pg'];
+  } else {
+    $pg = 'conteudo.php';
+  }
+  include_once($pg);
+  include_once("rodape.php");
+?>

@@ -1,4 +1,4 @@
-# Título do projeto
+# SITE: O CAFETÃO CAFETERIA
 * Este é um projeto de página WEB construido com PHP, tratando-se de um trabalho de cunho estudantil.
 ## 🛠️ Construído com: 
 * [VSCODE](https://code.visualstudio.com/) - IDE

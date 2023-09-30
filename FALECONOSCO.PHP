@@ -1,11 +1,10 @@
-<!-- form com o class section -->
+<!-- form como o request.-->
 <div class="section">
             <h1><span>FALE CONOSCO</span></h1>
-            <form>
-                <input name="name" placeholder="NOME" type="text" required /><br/>
-                <input name="email" placeholder="EMAIL" type="email" required /><br/>
-                <textarea name="messagem" placeholder="MENSAGEM" required ></textarea>
-                <input type="submit" value="ENVIAR" class="submit"
-                />
+            <form action="receberRequest.php" method="request">
+                <input type ="text" name = "Nome" placeholder = "Nome" /><br>
+                <input type ="text" name = "Email" placeholder = "Email" /><br>
+                <textarea type ="text" name = "Msg" placeholder = "Mensagem" ></textarea>
+                <input type="submit"value="Enviar" class ="submit"/>
             </form>
         </div>
